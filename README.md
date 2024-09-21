@@ -1,4 +1,4 @@
-# Electric Vehicle Data Analysis
+# Electric Vehicle Sales Analysis
 
 [Click here to view the Tableau Dashboard](https://public.tableau.com/views/Book1_17249987919860/ElectricVehicleDataAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
