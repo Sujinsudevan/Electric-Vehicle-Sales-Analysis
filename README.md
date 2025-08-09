@@ -1,6 +1,8 @@
 # Electric Vehicle Sales Analysis
 
-[Click here to view the Tableau Dashboard](https://public.tableau.com/views/Book1_17249987919860/ElectricVehicleDataAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Click here to view the Tableau Dashboard](https://public.tableau.com/app/profile/sujin.s2341/viz/ElectricVehicleSalesAnalysis_17547305612960/Dashboard1#1)
+
+<img width="1155" height="479" alt="image" src="https://github.com/user-attachments/assets/82e1394e-698d-4c8b-8684-0fd24c153047" />
 
 ## Introduction
 
